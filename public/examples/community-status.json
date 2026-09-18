@@ -1,0 +1,34 @@
+{
+  "memberCount": 110,
+  "tots": 76,
+  "smashers": 72,
+  "streamNotifications": 63,
+  "playNotifications": 42,
+  "ultimateChapters": 20,
+  "fighterGuides": 86,
+  "playlistSongs": 13,
+  "topFighters": [
+    { "name": "Bowser", "count": 16 },
+    { "name": "Joker", "count": 13 },
+    { "name": "Byleth", "count": 10 }
+  ],
+  "live": {
+    "isLive": true,
+    "platform": "TikTok",
+    "title": "Elite Smash n 30 Winstreak",
+    "url": "https://www.tiktok.com/@twowhitaker/live",
+    "lastLiveAt": "2026-09-18T18:00:00Z"
+  },
+  "playDesk": {
+    "lookingCount": 3,
+    "detail": "Three Smashers are available right now",
+    "url": "https://discord.com/channels/1533152480328941778/1535026289210294272"
+  },
+  "tournaments": {
+    "liveCount": 1,
+    "todayCount": 3,
+    "headline": "FlyHigh!!#29 is live now",
+    "detail": "Ultimate & Melee tournament guide",
+    "url": "https://discord.com/channels/1533152480328941778/1536803243068231741"
+  }
+}
